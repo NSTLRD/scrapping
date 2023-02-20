@@ -1,0 +1,15 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "a web scraper",
+  "main": "scrapping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "starling",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.7.1"
+  }
+}
